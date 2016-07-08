@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 add merge
 modified bug.
+add merge in dev branch.
