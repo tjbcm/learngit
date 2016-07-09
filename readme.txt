@@ -5,3 +5,4 @@ Git tracks changes.
 add merge
 modified bug.
 add merge in dev branch.
+push by dev.
